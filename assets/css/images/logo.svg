@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.52499966"
-     inkscape:cx="296.19067"
-     inkscape:cy="528.57177"
-     inkscape:window-width="1504"
-     inkscape:window-height="878"
+     inkscape:zoom="0.90145906"
+     inkscape:cx="394.91533"
+     inkscape:cy="332.23916"
+     inkscape:window-width="1352"
+     inkscape:window-height="820"
      inkscape:window-x="0"
-     inkscape:window-y="200"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:page
@@ -67,7 +67,7 @@
        x="12.633095"
        y="56.053371"
        id="text1"
-       inkscape:export-filename="text1.svg"
+       inkscape:export-filename="logo.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
@@ -83,7 +83,7 @@
        rx="36.958969"
        ry="37.665249" />
     <circle
-       style="fill:#f2f2f2;fill-opacity:1;stroke:#ffffff;stroke-width:0.542289;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.542289;stroke-dasharray:none;stroke-opacity:1"
        id="path4"
        cx="145.56633"
        cy="39.73439"
